@@ -1,8 +1,10 @@
 # AoC_Kotlin_2022
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [raspikonk][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+Welcome to the Advent of Code Kotlin project created by [raspikonk][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, raspikonk is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+
+- Day 1: Count the calories
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
@@ -11,10 +13,6 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 - Template [issue tracker][issues]
 
 
-[^aoc]:
-    [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
-    Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-five days.
-    You can solve the puzzle and provide an answer using the language of your choice.
 
 [aoc]: https://adventofcode.com
 [docs]: https://kotlinlang.org/docs/home.html
