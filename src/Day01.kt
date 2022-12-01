@@ -1,11 +1,21 @@
-fun main() {
-    fun part1(input: List<String>): Int {
+/**
+ * Day 1: Count the calories in the elves' backpacks
+ *
+ * Part 1: Who has the most calories?
+ * Part 2: What are the top 3 calories combined?
+ */
+fun main()
+{
+    fun part1(input: List<String>): Int
+    {
         return input.size
     }
 
-    fun part2(input: List<String>): Int {
+    fun part2(input: List<String>): Int
+    {
         return input.size
     }
+
 
     // test if implementation meets criteria from the description, like:
     val testInput = readInput("Day01_test")
