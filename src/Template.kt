@@ -8,8 +8,8 @@
 fun main()
 {
 	val start = System.currentTimeMillis()
-	val DAY: String = "01"
-	println("Advent od Code 2022 - Day $DAY")
+	val DAY: String = "03"
+	println("Advent of Code 2022 - Day $DAY")
 
 	// Solve part 1.
 	fun part1(input: List<String>): Int
@@ -27,7 +27,7 @@ fun main()
 	{
 		for(line in input)
 		{
-			println(line)
+			//println(line)
 		}
 		return input.size
 	}
@@ -35,13 +35,16 @@ fun main()
 
 	// test if implementation meets criteria from the description, like:
 	val testInput = readInput("Day${DAY}_test")
-	check(part1(testInput) == 24000)
-
-
 	val input = readInput("Day${DAY}")
+
+	// Part 1
+	check(part1(testInput) == 24000)
 	println("Part 1: ${part1(input)}")  //
-	println("Part 2: ${part2(input)}")  //
+
+	// Part 2
+	//check(part2(testInput) == 24000)
+	//println("Part 2: ${part2(input)}")  //
 
 	val elapsedTime = System.currentTimeMillis() - start
-	println("Elasped time: $elapsedTime ms")
+	println("Elapsed time: $elapsedTime ms")
 }

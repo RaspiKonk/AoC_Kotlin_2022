@@ -8,6 +8,8 @@
 fun main()
 {
 	val start = System.currentTimeMillis()
+	val DAY: String = "01"
+	println("Advent of Code 2022 - Day $DAY")
 
 	var calorieList: List<Int> = listOf()
 
@@ -51,5 +53,5 @@ fun main()
 	println("Number of elves: ${calorieList.size}")  // 258
 
 	val elapsedTime = System.currentTimeMillis() - start
-	println("Elasped time: $elapsedTime ms")
+	println("Elapsed time: $elapsedTime ms")
 }

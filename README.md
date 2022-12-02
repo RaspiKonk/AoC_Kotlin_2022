@@ -5,6 +5,7 @@ Welcome to the Advent of Code Kotlin project created by [raspikonk][github] usin
 In this repository, raspikonk is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
 - Day 1: Count the calories
+- Day 2: Rock paper scissors \[lizard spock\]
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
