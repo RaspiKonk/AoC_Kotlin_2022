@@ -6,6 +6,7 @@ In this repository, raspikonk is about to provide solutions for the puzzles usin
 
 - Day 1: Count the calories
 - Day 2: Rock paper scissors \[lizard spock\]
+- Day 3: Rucksack rustification
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
