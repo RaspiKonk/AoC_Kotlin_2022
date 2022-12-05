@@ -2,7 +2,7 @@
  * Day 4: den Strand aufräumen
  *
  * Part 1: Wie viele Assignments liegen vollständig in einem anderen Assignment?
- * Part 2:
+ * Part 2: Wie viele Assignments überlappen?
  */
 
 fun main()

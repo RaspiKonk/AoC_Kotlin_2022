@@ -8,7 +8,7 @@
 fun main()
 {
 	val start = System.currentTimeMillis()
-	val DAY: String = "05"
+	val DAY: String = "07"
 	println("Advent of Code 2022 - Day $DAY")
 
 	// Solve part 1.
