@@ -3,8 +3,8 @@ import java.lang.Integer.max
 /**
  * Day 5: Pakete mit dem Kran umschichten
  *
- * Part 1: Wie sind die Buchstaben der obersten Paketreihe nach dem Umschichten?
- * Part 2:
+ * Part 1: Wie sind die Buchstaben der obersten Paketreihe nach dem Umschichten? Kran kann nur 1 Kiste aufnehmen.
+ * Part 2: Kran kann auch mhrere Kisten aufnehmen.
  */
 
 fun main()
